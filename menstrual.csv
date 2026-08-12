@@ -1,0 +1,334 @@
+Age,Occupation,Income,Menstrual product,Area,Intensity of flow,Monthly cost spend,Single day changing frequency,Duration of single product per day,No.of products used for a cycle,Disposable/Reusable product,Method of disposing,Availability of disposable machines,Awareness about impact of menstrual waste ,Switching to eco friendly menstrual product,No.of years using menstrual product,Manufacturer should produce eco friendly products,Promoting Gov policies,Any discomfort,Reasons,Aware about Gov policies,Shift to other product,Reason for particular product
+12,Student ,50000,Sanitary napkins,Rural,Low,100-150 Rs,Less than 3 times,More than 6 hours,20,Disposable,General household waste,No,Yes,Maybe,3,Strongly agree,Yes,No,,Yes,No,Generation to generation use
+14,Student ,5000,Organic pads,Urban,Medium,100-150 Rs,Less than 3 times,More than 6 hours,9,Disposable,General household waste,No,Yes,Yes,2,Strongly agree,Yes,Yes,,No,No,Generation to generation use
+15,Student ,4000,Sanitary napkins,Urban,Medium,More than 200 Rs,3-5 times,1-3 hours,More than 20,Disposable,General household waste,No,Yes,No,3,Agree,Yes,No,,Yes,No,Less health issues
+16,Student ,50000,Organic pads,Urban,Low,100-150 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,2,Disagree,Yes,No,,Yes,No,Less health issues
+16,Student ,8500,Sanitary napkins,Urban,,More than 200 Rs,3-5 times,1-3 hours,20,Disposable,Separated dustbins for sanitary napkins,Yes,No,Yes,2,Strongly agree,Yes,No,,No,No,Less health issues
+16,Student ,10000,Sanitary napkins,Urban,Medium,150-200 Rs,3-5 times,1-3 hours,20,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,4,Strongly agree,Yes,No,,No,No,Generation to generation use
+17,Student ,"10,000",Sanitary napkins,Urban,Medium,150-200 Rs,Less than 3 times,More than 6 hours,15,Both,Separated dustbins for sanitary napkins,No,Yes,Yes,5,Strongly agree,Yes,No,,Yes,No,Easy to dispose
+17,Student ,25000,"Sanitary napkins, Organic pads",Urban,Low,Less than 100 Rs,Less than 3 times,More than 6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Maybe,4,Agree,Yes,No,,Yes,No,Less health issues
+17,Student ,50000,Organic pads,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Maybe,4,Agree,Yes,No,,Yes,No,Less health issues
+18,Student ,5000,Sanitary napkins,Urban,Medium,100-150 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,No,Yes,5,Strongly agree,Yes,Yes,Uncomfortable feeling,No,No,Less health issues
+18,Student ,5000,Sanitary napkins,Urban,Medium,More than 200 Rs,Less than 3 times,More than 6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,6,Agree,Yes,No,,No,No,Generation to generation use
+18,Student ,4600,Sanitary napkins,Urban,Medium,More than 200 Rs,3-5 times,4-6 hours,20,Disposable,General household waste,No,Yes,Yes,8,Strongly agree,Yes,No,,Yes,No,Less health issues
+18,Student ,5000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,No,Yes,7,Agree,Yes,No,,No,No,Cost feasible
+18,Student ,5000,Sanitary napkins,Rural,Medium,100-150 Rs,3-5 times,4-6 hours,9,Disposable,General household waste,No,No,Yes,4,Agree,Yes,Yes,,No,No,Cost feasible
+18,Student ,5000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,More than 6 hours,15,Disposable,General household waste,No,Yes,Yes,5,Strongly agree,Yes,No,,No,No,Less health issues
+18,Student ,4000,Organic pads,Urban,Medium,150-200 Rs,3-5 times,4-6 hours,20,Disposable,Separated dustbins for sanitary napkins,Yes,No,Yes,5,Strongly agree,Yes,No,,No,No,Easy to dispose
+18,Student ,5000,Sanitary napkins,Urban,High,150-200 Rs,More than 5 times,1-3 hours,More than 20,Disposable,General household waste,Yes,No,Maybe,5,Neutral,Yes,No,,No,No,Generation to generation use
+18,Student ,5000,Sanitary napkins,Rural,High,More than 200 Rs,3-5 times,1-3 hours,20,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,7,Strongly agree,Yes,No,,Yes,No,Easy to dispose
+18,Student ,6000,Sanitary napkins,Rural,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,6,Agree,Yes,No,,No,No,Less health issues
+18,Service ,6000,Organic pads,Rural,Medium,100-150 Rs,3-5 times,4-6 hours,15,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,No,7,Strongly agree,Yes,No,,Yes,Yes,Easy to dispose
+18,Student ,10000,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,1-3 hours,20,Both,Separated dustbins for sanitary napkins,No,No,Maybe,12,Agree,Yes,Yes,,No,No,Less health issues
+18,Student ,"30,000",Sanitary napkins,Urban,Medium,Less than 100 Rs,3-5 times,4-6 hours,15,Reusable,General household waste,No,No,Maybe,4,Agree,Yes,No,,No,No,Less health issues
+18,Student ,"40,000","Sanitary napkins, Organic pads",Urban,Medium,Less than 100 Rs,Less than 3 times,1-3 hours,20,Both,Separated dustbins for sanitary napkins,Yes,Yes,Maybe,4,Agree,Yes,No,,Yes,No,Generation to generation use
+18,Student ,50000,"Sanitary napkins, Menstrual cups",Urban,Medium,150-200 Rs,3-5 times,4-6 hours,15,Both,Separated dustbins for sanitary napkins,No,No,Maybe,2,Strongly agree,Yes,Yes,Itching ,No,Yes,Easy to dispose
+18,Student ,50000,Sanitary napkins,Rural,Medium,100-150 Rs,3-5 times,4-6 hours,15,Disposable,General household waste,No,No,Yes,3,Strongly agree,Yes,No,,Yes,Yes,Easy to dispose
+18,Student ,70000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,1-3 hours,9,Disposable,Burns it,Yes,No,Yes,6,Strongly agree,Yes,No,,No,No,Less health issues
+18,Student ,5000,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,4-6 hours,15,Both,Separated dustbins for sanitary napkins,No,Yes,Yes,6,Strongly agree,Yes,No,,No,No,Generation to generation use
+19,Student ,10000,Sanitary napkins,Urban,Medium,More than 200 Rs,3-5 times,1-3 hours,More than 20,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,3,Strongly agree,Yes,No,,No,No,Easy to dispose
+19,Student ,5000,Sanitary napkins,Urban,Medium,150-200 Rs,3-5 times,1-3 hours,9,Both,Separated dustbins for sanitary napkins,No,Yes,Yes,10,Strongly agree,Yes,No,,No,No,Cost feasible
+19,Student ,6500,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,General household waste,No,No,Yes,8,Strongly agree,Yes,No,,No,No,Cost feasible
+19,Student ,5000,Sanitary napkins,Urban,High,More than 200 Rs,Less than 3 times,1-3 hours,15,Both,Separated dustbins for sanitary napkins,No,No,Maybe,5,Agree,Yes,No,,No,No,Less health issues
+19,Student ,5000,Organic pads,Urban,Medium,100-150 Rs,3-5 times,4-6 hours,9,Disposable,General household waste,Yes,Yes,Yes,7,Agree,Yes,No,,No,No,For comfort
+19,Student ,2000,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,1-3 hours,20,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,7,Strongly agree,Yes,No,,No,No,Easy to dispose
+19,Student ,3000,Organic pads,Urban,Medium,150-200 Rs,3-5 times,4-6 hours,15,Disposable,General household waste,No,Yes,Maybe,6,Agree,Yes,No,,No,No,Less health issues
+19,Student ,5000,Sanitary napkins,Rural,Medium,100-150 Rs,Less than 3 times,4-6 hours,15,Both,Burns it,Yes,Yes,Yes,6,Strongly agree,Yes,No,,No,No,Easy to dispose
+19,Student ,2500,Organic pads,Urban,Medium,100-150 Rs,Less than 3 times,4-6 hours,9,Reusable,Separated dustbins for sanitary napkins,No,Yes,Yes,6,Strongly agree,Yes,Yes,,No,No,Cost feasible
+19,Student ,5000,Organic pads,Urban,Medium,100-150 Rs,Less than 3 times,1-3 hours,20,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,6,Agree,No,No,,No,No,Generation to generation use
+19,Student ,5000,"Sanitary napkins, Organic pads",Rural,Medium,100-150 Rs,Less than 3 times,More than 6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,6,Strongly agree,Yes,No,,No,No,Comfortable to use
+19,Student ,1000,Sanitary napkins,Urban,Medium,More than 200 Rs,3-5 times,4-6 hours,15,Both,Separated dustbins for sanitary napkins,Yes,Yes,Maybe,7,Strongly agree,Yes,No,,Yes,No,Less health issues
+19,Student ,5500,Sanitary napkins,Rural,Medium,Less than 100 Rs,3-5 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,No,No,7,Agree,Yes,Yes,,No,No,Easy to dispose
+19,Student ,4000,Sanitary napkins,Urban,Medium,150-200 Rs,Less than 3 times,1-3 hours,9,Disposable,Burns it,No,Yes,Yes,5,Strongly agree,Yes,No,,Yes,No,Cost feasible
+19,Student ,4000,Sanitary napkins,Rural,Medium,100-150 Rs,Less than 3 times,More than 6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,6,Strongly agree,Yes,Yes,Infection ,Yes,Yes,Cost feasible
+19,Student ,5000,Sanitary napkins,Rural,High,Less than 100 Rs,3-5 times,1-3 hours,9,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,5,Agree,Yes,No,I don't have any issues,Yes,No,Easy to dispose
+19,Student ,10000,Sanitary napkins,Rural,High,More than 200 Rs,3-5 times,4-6 hours,15,Both,Separated dustbins for sanitary napkins,Yes,Yes,Yes,7,Strongly agree,Yes,Yes,,Yes,No,Less health issues
+19,Student ,10000,Organic pads,Urban,Medium,100-150 Rs,Less than 3 times,More than 6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,5,Strongly agree,Yes,Yes,,No,No,Easy to dispose
+19,Student ,11000,Sanitary napkins,Urban,Medium,Less than 100 Rs,3-5 times,4-6 hours,15,Both,Separated dustbins for sanitary napkins,Yes,Yes,Yes,7,Agree,Yes,No,,No,No,Less health issues
+19,Student ,12000,Sanitary napkins,Rural,Low,150-200 Rs,Less than 3 times,More than 6 hours,9,Disposable,General household waste,No,Yes,Yes,6,Strongly agree,Yes,No,,No,No,Easy to dispose
+19,Student ,33000,"Sanitary napkins, Organic pads",Rural,Medium,Less than 100 Rs,Less than 3 times,More than 6 hours,9,Both,General household waste,No,Yes,Yes,8,Strongly agree,Yes,Yes,"Sometimes irritations,rashes,itching etc",No,No,Easy to dispose
+19,Student ,35000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,1-3 hours,15,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Maybe,14,Agree,Yes,No,,Yes,No,Easy to dispose
+19,Student ,40000,Organic pads,Urban,High,150-200 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,4,Strongly agree,Yes,No,,Yes,No,Easy to dispose
+19,Student ,45000,Sanitary napkins,Urban,Medium,100-150 Rs,Less than 3 times,4-6 hours,9,Disposable,General household waste,No,Yes,Maybe,6,Agree,Yes,Yes,A feeling of dampness and sometimes rashes while using pads,No,No,"Pads are what I am privy to because every female in my household uses it, idk about other products"
+19,Student ,"50,000",Organic pads,Urban,Medium,100-150 Rs,Less than 3 times,4-6 hours,15,Disposable,General household waste,No,Yes,Yes,7,Strongly agree,Yes,No,,No,No,It's comfortable 
+19,Student ,50000,Sanitary napkins,Urban,Medium,Less than 100 Rs,3-5 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,5,Strongly agree,Yes,No,,Yes,No,Easy to dispose
+19,Student ,100000,Sanitary napkins,Urban,Medium,100-150 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,7,Agree,Yes,No,. ,Yes,No,Easy to dispose
+19,Student ,2500,Sanitary napkins,Rural,Medium,More than 200 Rs,3-5 times,1-3 hours,More than 20,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,8,Strongly agree,Yes,Yes,,Yes,No,Like this only 
+20,Student ,5000,Sanitary napkins,Urban,Medium,More than 200 Rs,3-5 times,1-3 hours,9,Disposable,General household waste,No,Yes,Maybe,9,Agree,Yes,No,,No,No,Comfortable 
+20,Student ,5000,Sanitary napkins,Rural,High,100-150 Rs,Less than 3 times,4-6 hours,20,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,4,Strongly agree,Yes,No,,No,No,Generation to generation use
+20,Student ,5000,Sanitary napkins,Urban,Low,100-150 Rs,3-5 times,1-3 hours,15,Disposable,Separated dustbins for sanitary napkins,No,Yes,No,7,Strongly agree,Yes,No,-,No,No,Less health issues
+20,Student ,5000,Sanitary napkins,Urban,Medium,150-200 Rs,3-5 times,4-6 hours,20,Disposable,General household waste,No,No,Maybe,9,Strongly agree,Yes,No,,No,No,Cost feasible
+20,Student ,5000,Sanitary napkins,Urban,Medium,More than 200 Rs,3-5 times,4-6 hours,15,Disposable,Separated dustbins for sanitary napkins,No,Yes,Maybe,8,Agree,Yes,No,,No,No,Easy to dispose
+20,Student ,5000,Sanitary napkins,Urban,Medium,100-150 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,No,6,Agree,Yes,Yes,,No,No,Easy to dispose
+20,Student ,5000,Sanitary napkins,Urban,High,100-150 Rs,3-5 times,1-3 hours,15,Disposable,General household waste,No,Yes,Yes,7,Strongly agree,Yes,Yes,,No,No,Easy to dispose
+20,Student ,5000,Sanitary napkins,Urban,Medium,More than 200 Rs,3-5 times,4-6 hours,More than 20,Reusable,General household waste,No,Yes,Yes,From 1st period (from age 15yr ),Strongly agree,Yes,Yes,"Iching,rashes",No,No,Generation to generation use
+20,Student ,5000,Sanitary napkins,Urban,Medium,Less than 100 Rs,3-5 times,4-6 hours,More than 20,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,7,Strongly agree,Yes,No,,Yes,No,Cost feasible
+20,Student ,5000,Sanitary napkins,Rural,Medium,Less than 100 Rs,3-5 times,1-3 hours,9,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,9,Strongly agree,Yes,No,,Yes,No,Easy to dispose
+20,Student ,5000,Sanitary napkins,Urban,Medium,100-150 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,7,Agree,Yes,No,,No,No,Cost feasible
+20,Student ,5000,Sanitary napkins,Urban,Medium,100-150 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,9,Strongly agree,Yes,Yes,Rashes,No,No,I trust the brand. 
+20,Student ,5000,Sanitary napkins,Urban,Medium,Less than 100 Rs,3-5 times,More than 6 hours,9,Disposable,General household waste,No,Yes,Yes,15,Strongly agree,Yes,Yes,Rashes and irritation ,No,No,Easy to dispose
+20,Student ,5000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Both,Separated dustbins for sanitary napkins,No,Yes,Yes,8,Agree,Yes,No,,No,No,Easy to dispose
+20,Student ,5000,Sanitary napkins,Rural,Medium,100-150 Rs,3-5 times,4-6 hours,15,Disposable,Burns it,No,Yes,Maybe,7,Agree,Yes,No,,No,No,Less health issues
+20,Student ,5000,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,4-6 hours,15,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,7,Agree,Yes,No,,Yes,No,Less health issues
+20,Student ,5000,Sanitary napkins,Urban,High,More than 200 Rs,3-5 times,4-6 hours,15,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,4,Strongly agree,Yes,Yes,,Yes,No,Generation to generation use
+20,Student ,5000,"Sanitary napkins, Organic pads",Urban,Medium,Less than 100 Rs,3-5 times,4-6 hours,15,Disposable,Separated dustbins for sanitary napkins,No,Yes,Maybe,7,Agree,Yes,No,,Yes,No,Less health issues
+20,Student ,5000,Organic pads,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,15,Both,Other,No,Yes,Yes,10,Strongly agree,Yes,Yes,Irritation,Yes,No,Less health issues
+20,Student ,5000,Sanitary napkins,Urban,Medium,More than 200 Rs,3-5 times,4-6 hours,15,Disposable,General household waste,No,Yes,Yes,7,Strongly agree,Yes,No,,Yes,Yes,Less health issues
+20,Student ,5000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,General household waste,No,Yes,Yes,9,Strongly agree,Yes,No,,No,No,Less health issues
+20,Student ,5000,Sanitary napkins,Urban,Medium,100-150 Rs,Less than 3 times,4-6 hours,15,Disposable,General household waste,No,No,Yes,6,Agree,Yes,No,,No,No,Cost feasible
+20,Student ,5000,Organic pads,Rural,Medium,150-200 Rs,Less than 3 times,4-6 hours,9,Both,General household waste,No,Yes,Yes,8,Agree,Yes,Yes,Itchiness ,No,No,Cost feasible
+20,Student ,5000,Sanitary napkins,Rural,Medium,100-150 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,15,Agree,Yes,No,,No,No,Easy to dispose
+20,Student ,5000,Sanitary napkins,Rural,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,No,Maybe,7,Strongly agree,Yes,No,,No,No,Cost feasible
+20,Student ,5000,Organic pads,Rural,Medium,Less than 100 Rs,3-5 times,4-6 hours,15,Disposable,Burns it,No,Yes,Yes,6,Strongly agree,Yes,No,,No,No,Easy to dispose
+20,Student ,5000,Sanitary napkins,Rural,Medium,150-200 Rs,3-5 times,4-6 hours,15,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,8,Strongly agree,Yes,Yes,Irritation ,No,No,Cost feasible
+20,Student ,5000,Sanitary napkins,Urban,Medium,Less than 100 Rs,3-5 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,7,Strongly agree,Yes,No,,No,No,Easy to dispose
+20,Student ,5000,Sanitary napkins,Urban,Medium,More than 200 Rs,3-5 times,4-6 hours,20,Disposable,General household waste,No,Yes,Yes,7,Strongly agree,Yes,Yes,,No,No,Generation to generation use
+20,Student ,5000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,No,Yes,8,Strongly agree,Yes,No,,No,No,Less health issues
+20,Student ,5000,Sanitary napkins,Urban,Medium,More than 200 Rs,Less than 3 times,4-6 hours,9,Disposable,General household waste,No,Yes,Maybe,10,Strongly agree,Yes,No,,Yes,No,Generation to generation use
+20,Student ,5000,Sanitary napkins,Urban,Medium,100-150 Rs,Less than 3 times,4-6 hours,15,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,8,Strongly agree,Yes,Yes,,Yes,No,Cost feasible
+20,Student ,5000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,15,Disposable,General household waste,Yes,Yes,Yes,7,Strongly agree,Yes,Yes,"Discomfort for Menstrual cup, tampons ",Yes,No,Generation to generation use
+20,Student ,5000,Sanitary napkins,Urban,High,150-200 Rs,3-5 times,1-3 hours,15,Reusable,General household waste,No,Yes,Yes,8,Strongly agree,Yes,No,,No,No,Less health issues
+20,Student ,5000,Sanitary napkins,Urban,Medium,100-150 Rs,Less than 3 times,More than 6 hours,9,Both,Separated dustbins for sanitary napkins,Yes,Yes,Maybe,6,Strongly agree,Yes,No,,No,No,Cost feasible
+20,Student ,5000,Sanitary napkins,Urban,Medium,150-200 Rs,3-5 times,4-6 hours,More than 20,Disposable,General household waste,Yes,Yes,Yes,8,Strongly agree,Yes,No,,No,No,Easy to dispose
+20,Student ,5000,Organic pads,Rural,Medium,100-150 Rs,3-5 times,1-3 hours,15,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Maybe,8,Strongly agree,Yes,No,,No,No,Suitsss...
+20,Student ,5000,Sanitary napkins,Urban,Medium,150-200 Rs,3-5 times,More than 6 hours,15,Disposable,General household waste,No,Yes,Yes,8,Strongly agree,Yes,Yes,"We can't seat properly as we we seat normally, at starting it's so icchi and irritating but that's ok now as we learnt to survive this , to stop that I started using smooth texture pads but they are so expensive till now",No,No,"We are used to it(pads), that's why we are comfortable in wearing pads"
+20,Student ,5000,Sanitary napkins,Rural,Medium,100-150 Rs,Less than 3 times,4-6 hours,15,Both,Burns it,No,Yes,Yes,8,Strongly agree,Yes,No,-,Yes,No,Less health issues
+20,Student ,5000,Sanitary napkins,Urban,Medium,150-200 Rs,3-5 times,4-6 hours,20,Both,General household waste,Yes,Yes,Yes,8,Strongly agree,Yes,No,,No,No,Easy to dispose
+20,Student ,5000,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,4-6 hours,20,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,8,Strongly agree,Yes,Yes,"improper fit, irritation from the product itself",Yes,No,Easy to dispose
+20,Student ,4500,Organic pads,Rural,Low,150-200 Rs,Less than 3 times,4-6 hours,9,Disposable,Burns it,No,Yes,Yes,6,Agree,Yes,No,,No,No,Generation to generation use
+20,Student ,1500,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,Burns it,No,Yes,Maybe,6,Strongly agree,Yes,Yes,Sometimes sanitary pads causes rashes this makes me discomfort able.,No,Yes,Cost feasible
+20,Student ,4000,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,1-3 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Maybe,7,Agree,Yes,Yes,I think Sanitary napkins are good than Menstrual cups,No,Yes,Less health issues
+20,Student ,5000,Organic pads,Urban,High,100-150 Rs,3-5 times,4-6 hours,15,Both,Separated dustbins for sanitary napkins,No,Yes,Yes,11,Agree,Yes,Yes,,No,No,Less health issues
+20,Student ,8000,Sanitary napkins,Rural,Medium,100-150 Rs,3-5 times,4-6 hours,15,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,8,Agree,Yes,No,,Yes,No,Easy to dispose
+20,Student ,8000,Organic pads,Urban,Medium,100-150 Rs,3-5 times,4-6 hours,15,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,7,Strongly agree,Yes,No,,No,No,Less health issues
+20,Student ,10000,Sanitary napkins,Rural,Medium,100-150 Rs,Less than 3 times,4-6 hours,15,Disposable,Burns it,No,Yes,Yes,8,Agree,Yes,No,,No,No,Less health issues
+20,Student ,"10,000",Sanitary napkins,Rural,Medium,More than 200 Rs,3-5 times,1-3 hours,15,Disposable,General household waste,No,Yes,Yes,7,Strongly agree,Yes,No,,No,No,Generation to generation use
+20,Student ,10000,Organic pads,Urban,Medium,150-200 Rs,Less than 3 times,4-6 hours,15,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,6,Strongly agree,Yes,No,,No,No,Less health issues
+20,Service ,10000,Sanitary napkins,Urban,Medium,150-200 Rs,3-5 times,4-6 hours,20,Both,Separated dustbins for sanitary napkins,No,Yes,Yes,2,Strongly agree,Yes,Yes,Menstrual Cup & Tampons ,No,No,Easy to dispose
+20,Student ,"10,000",Sanitary napkins,Rural,Medium,100-150 Rs,Less than 3 times,1-3 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,15,Agree,Yes,No,,Yes,No,Easy to dispose
+20,Student ,"15,000","Sanitary napkins, Cloth",Rural,Medium,Less than 100 Rs,3-5 times,1-3 hours,9,Both,Separated dustbins for sanitary napkins,No,Yes,Yes,8,Strongly agree,Yes,No,,Yes,No,Cost feasible
+20,Student ,15000,Sanitary napkins ,Rural,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,No,Maybe,7,Agree,Yes,No,,No,No,Easy to dispose
+20,Student ,15000,Sanitary napkins,Urban,Medium,100-150 Rs,Less than 3 times,4-6 hours,9,Disposable,General household waste,Yes,Yes,Yes,6,Strongly agree,Yes,No,,No,No,Easy to dispose
+20,Student ,25000,Sanitary napkins,Urban,High,150-200 Rs,More than 5 times,1-3 hours,15,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,8,Strongly agree,Yes,No,,Yes,No,Generation to generation use
+20,Student ,25000,Sanitary napkins,Urban,Medium,More than 200 Rs,3-5 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,7,Agree,Yes,No,,Yes,No,Less health issues
+20,Student ,"30,000",Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Both,General household waste,No,Yes,Maybe,6,Strongly agree,Yes,No,,Yes,No,Cost feasible
+20,Student ,30000,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,1-3 hours,15,Disposable,General household waste,No,Yes,Maybe,10,Strongly agree,Yes,No,,No,No,Easy to dispose
+20,Service ,30000,Organic pads,Urban,Medium,150-200 Rs,3-5 times,4-6 hours,20,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Maybe,7,Agree,Yes,No,,No,No,Easy to dispose
+20,Student ,35000,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,4-6 hours,More than 20,Disposable,Separated dustbins for sanitary napkins,No,No,Maybe,8,Agree,Yes,No,,No,No,Less health issues
+20,Student ,40000,Sanitary napkins,Urban,High,150-200 Rs,Less than 3 times,4-6 hours,20,Both,Separated dustbins for sanitary napkins,No,Yes,Maybe,6,Strongly agree,Yes,Yes,Itching and irritation,No,No,Cost feasible
+20,Student ,40000,Sanitary napkins,Rural,Medium,150-200 Rs,More than 5 times,1-3 hours,More than 20,Disposable,Separated dustbins for sanitary napkins,No,Yes,Maybe,8,Strongly agree,Yes,No,,No,No,Less health issues
+20,Student ,50000,Sanitary napkins,Rural,Low,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Maybe,7,Strongly agree,Yes,No,,No,No,Easy to dispose
+20,Student ,50000,Sanitary napkins,Rural,Medium,100-150 Rs,Less than 3 times,More than 6 hours,15,Disposable,General household waste,No,Yes,Maybe,7,Agree,Yes,No,,No,No,Less health issues
+20,Student ,50000,Sanitary napkins,Urban,Low,100-150 Rs,Less than 3 times,More than 6 hours,9,Disposable,Other,No,Yes,Yes,5,Agree,Yes,Yes,Pad,No,No,Less health issues
+20,Student ,60000,Sanitary napkins,Urban,High,More than 200 Rs,More than 5 times,1-3 hours,More than 20,Reusable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,9,Strongly agree,Yes,Yes,,Yes,No,Generation to generation use
+20,Student ,65000,Sanitary napkins,Urban,High,More than 200 Rs,3-5 times,1-3 hours,More than 20,Both,Separated dustbins for sanitary napkins,Yes,Yes,Yes,9,Agree,Yes,No,,Yes,No,Generation to generation use
+20,Student ,75000,Sanitary napkins,Urban,High,More than 200 Rs,3-5 times,1-3 hours,More than 20,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,9,Strongly agree,Yes,Yes,,Yes,No,Generation to generation use
+20,Student ,"80,000",Sanitary napkins,Urban,Medium,100-150 Rs,Less than 3 times,More than 6 hours,9,Both,Separated dustbins for sanitary napkins,No,Yes,Maybe,7,Agree,Yes,No,,Yes,No,Easy to dispose
+20,Student ,90000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,More than 6 hours,15,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,6,Strongly agree,Yes,No,,Yes,No,Less health issues
+20,Student ,100000,Sanitary napkins,Urban,High,150-200 Rs,3-5 times,1-3 hours,15,Disposable,Separated dustbins for sanitary napkins,No,No,Yes,7,Strongly agree,Yes,Yes,Irritation and rashes,No,No,Cost feasible
+20,Student ,250000,"Sanitary napkins, Organic pads",Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,15,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,14,Agree,Yes,No,,No,No,Cost feasible
+20,Student ,700000,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,4-6 hours,15,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,9,Strongly agree,No,Yes,,No,No,Less health issues
+20,Student ,5500,Sanitary napkins,Urban,High,150-200 Rs,3-5 times,4-6 hours,20,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Maybe,11,Strongly agree,Yes,No,,Yes,No,Less health issues
+20,Student ,3000,Sanitary napkins,Urban,High,150-200 Rs,3-5 times,1-3 hours,15,Both,Separated dustbins for sanitary napkins,Yes,Yes,Maybe,10,Agree,Yes,Yes,It’s awkward to ask for  pad’s to a male pharmacist ,No,No,Easy to dispose
+20,Student ,4500,Organic pads,Urban,Low,Less than 100 Rs,Less than 3 times,More than 6 hours,9,Reusable,Separated dustbins for sanitary napkins,No,Yes,No,7,Agree,Yes,No,,Yes,No,Easy to dispose
+20,Student ,75000,Sanitary napkins,Urban,Medium,150-200 Rs,3-5 times,4-6 hours,15,Disposable,General household waste,No,Yes,Yes,9,Strongly agree,Yes,Yes,"Rashes, odour, discomfort ",No,No,Generation to generation use
+21,Student ,2500,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,More than 6 hours,15,Reusable,Separated dustbins for sanitary napkins,No,Yes,Yes,5,Strongly agree,Yes,Yes,Itching and irritation ,No,No,Less health issues
+21,Student ,3000,Sanitary napkins,Urban,Medium,Less than 100 Rs,3-5 times,4-6 hours,15,Both,Separated dustbins for sanitary napkins,No,Yes,Yes,8,Agree,Yes,Yes,,No,Yes,Comfortable to me
+21,Student ,5000,Organic pads,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Both,Separated dustbins for sanitary napkins,No,No,Maybe,4,Neutral,Yes,No,,No,No,Less health issues
+21,Student ,4500,Sanitary napkins,Urban,High,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,9,Strongly agree,Yes,Yes,,Yes,No,Cost feasible
+21,Student ,5000,Sanitary napkins,Rural,High,100-150 Rs,3-5 times,1-3 hours,15,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,8,Agree,Yes,No,,Yes,No,Generation to generation use
+21,Student ,4500,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Both,Separated dustbins for sanitary napkins,No,Yes,Yes,7,Strongly agree,Yes,Yes,Itching,Yes,No,Less health issues
+21,Student ,5000,Sanitary napkins,Urban,Medium,150-200 Rs,Less than 3 times,4-6 hours,9,Disposable,General household waste,No,No,Yes,9,Strongly agree,Yes,No,,No,No,Less health issues
+21,Student ,6000,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,4-6 hours,9,Disposable,Burns it,Yes,Yes,Yes,5,Strongly agree,Yes,Yes,Irritation,No,No,Less health issues
+21,Student ,5000,Sanitary napkins,Urban,Medium,Less than 100 Rs,3-5 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,7,Agree,Yes,No,,Yes,No,Less health issues
+21,Student ,1500,Sanitary napkins,Urban,Medium,100-150 Rs,Less than 3 times,4-6 hours,9,Disposable,General household waste,Yes,Yes,Yes,8,Strongly agree,Yes,No,,No,No,Easy to dispose
+21,Student ,1500,Sanitary napkins,Urban,Low,100-150 Rs,Less than 3 times,More than 6 hours,9,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,7,Agree,Yes,Yes,Irritation and rashes,Yes,No,Less health issues
+21,Student ,1000,"Sanitary napkins, Organic pads",Rural,Medium,100-150 Rs,Less than 3 times,4-6 hours,15,Both,Separated dustbins for sanitary napkins,No,Yes,Yes,8,Strongly agree,Yes,No,,No,No,Less health issues
+21,Student ,3000,Sanitary napkins,Urban,Medium,Less than 100 Rs,3-5 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Maybe,7,Agree,Yes,No,,Yes,No,Easy to dispose
+21,Student ,4000,Menstrual cups,Urban,High,Less than 100 Rs,Less than 3 times,More than 6 hours,9,Reusable,General household waste,No,Yes,Yes,10,Strongly agree,Yes,No,,Yes,No,Less health issues
+21,Student ,5000,"Sanitary napkins, Tampons",Rural,High,More than 200 Rs,3-5 times,1-3 hours,15,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,7,Strongly agree,Yes,No,,No,No,Less health issues
+21,Student ,6000,Sanitary napkins,Rural,High,100-150 Rs,3-5 times,1-3 hours,15,Disposable,Separated dustbins for sanitary napkins,No,No,Yes,12,Strongly agree,Yes,Yes,Rashes ,No,No,Generation to generation use
+21,Student ,6000,Sanitary napkins,Rural,Medium,More than 200 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,5,Strongly agree,Yes,No,,No,No,Easy to dispose
+21,Student ,6000,Sanitary napkins,Urban,Medium,150-200 Rs,Less than 3 times,4-6 hours,15,Disposable,General household waste,No,No,Maybe,8,Agree,Yes,Yes,Leakage ,No,No,Comfortable and easy to dispose
+21,Student ,6000,Sanitary napkins,Rural,Medium,100-150 Rs,Less than 3 times,More than 6 hours,9,Disposable,General household waste,No,Yes,Yes,13,Agree,Yes,Yes,"Irritating,uncomfortable ",No,No,Less health issues
+21,Student ,7000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,Yes,No,Maybe,7,Neutral,Yes,No,,No,No,Easy to dispose
+21,Student ,15000,Sanitary napkins,Urban,High,More than 200 Rs,3-5 times,1-3 hours,More than 20,Disposable,Separated dustbins for sanitary napkins,Yes,No,Maybe,10,Neutral,Yes,No,,No,No,Comfortable 
+21,Student ,25000,Sanitary napkins,Urban,Low,More than 200 Rs,Less than 3 times,More than 6 hours,9,Disposable,General household waste,No,Yes,Yes,9,Strongly agree,Yes,No,,No,No,Less health issues
+21,Student ,25000,Organic pads,Rural,Medium,100-150 Rs,3-5 times,4-6 hours,20,Both,Other,Yes,Yes,Maybe,7,Neutral,No,No,,No,No,Easy to dispose
+21,Student ,35000,Sanitary napkins,Rural,High,100-150 Rs,3-5 times,1-3 hours,15,Disposable,General household waste,No,Yes,Yes,7,Neutral,Yes,Yes,Itching ,No,No,Less health issues
+21,Student ,40000,Cloth,Rural,Medium,100-150 Rs,Less than 3 times,4-6 hours,15,Disposable,Burns it,Yes,Yes,Yes,6,Strongly agree,Yes,No,,No,No,Less health issues
+21,Student ,50000,Sanitary napkins,Rural,Medium,100-150 Rs,Less than 3 times,4-6 hours,20,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,15,Strongly agree,Yes,No,,No,No,Cost feasible
+21,Student ,"60,000",Sanitary napkins,Rural,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,9,Strongly agree,Yes,Yes,Rashes,No,No,Less health issues
+21,Student ,70000,Sanitary napkins,Rural,Medium,100-150 Rs,3-5 times,1-3 hours,15,Disposable,General household waste,No,Yes,Yes,7,Strongly agree,Yes,Yes,Iching rashes ,No,No,Generation to generation use
+21,Student ,"75,000",Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,4-6 hours,15,Disposable,General household waste,No,Yes,No,8,Agree,Yes,Yes,Rashes,No,No,Easy to dispose
+21,Student ,150000,Organic pads,Urban,Medium,More than 200 Rs,3-5 times,1-3 hours,15,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,9,Strongly agree,Yes,No,,No,Yes,Less health issues
+21,Student ,300000,"Sanitary napkins, Organic pads",Rural,Medium,150-200 Rs,Less than 3 times,1-3 hours,9,Disposable,General household waste,No,Yes,Yes,10,Agree,Yes,No,,Yes,No,Easy to dispose
+21,Student ,5000,Sanitary napkins,Urban,Medium,150-200 Rs,3-5 times,4-6 hours,More than 20,Disposable,Separated dustbins for sanitary napkins,No,Yes,Maybe,7,Strongly agree,Yes,Yes,,No,No,Generation to generation use
+21,Student ,50000,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,1-3 hours,More than 20,Disposable,General household waste,No,No,Yes,7,Strongly agree,Yes,Yes,Itiching,No,No,Easy to dispose
+22,Student ,5000,Sanitary napkins,Urban,Medium,Less than 100 Rs,3-5 times,1-3 hours,15,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,7,Agree,Yes,Yes,Rashes ,No,No,Cost feasible
+22,Student ,5000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,General household waste,No,No,Yes,9,Strongly agree,Yes,No,,No,No,Comfortable 
+22,Student ,5000,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,1-3 hours,15,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,7,Strongly agree,Yes,No,,No,No,Easy to dispose
+22,Student ,5000,Organic pads,Urban,Medium,100-150 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Maybe,7,Agree,Yes,No,,No,No,Less health issues
+22,Student ,8000,Sanitary napkins,Rural,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Reusable,Burns it,No,Yes,Yes,8,Strongly agree,Yes,No,,Yes,No,Less health issues
+22,Service ,12000,Organic pads,Urban,Medium,100-150 Rs,Less than 3 times,4-6 hours,15,Disposable,General household waste,Yes,No,Yes,10,Strongly agree,Yes,No,,No,No,Less health issues
+22,Service ,15000,Sanitary napkins,Urban,High,100-150 Rs,Less than 3 times,4-6 hours,15,Disposable,Separated dustbins for sanitary napkins,No,No,Maybe,9,Agree,Yes,Yes,Rashesh ,No,No,Easy to dispose
+22,Service ,35000,Menstrual cups,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,15,Reusable,Other,No,Yes,Yes,4,Strongly agree,Yes,Yes,Pad they are very uncomfortable which cause rashes ,Yes,Yes,Less health issues
+22,Service ,50000,Sanitary napkins,Urban,Medium,150-200 Rs,3-5 times,1-3 hours,15,Both,Separated dustbins for sanitary napkins,No,Yes,Yes,8,Strongly agree,Yes,No,,No,No,Cost feasible
+22,Student ,10,Sanitary napkins,Urban,Medium,150-200 Rs,3-5 times,4-6 hours,20,Disposable,General household waste,No,Yes,Yes,14,Strongly agree,Yes,Yes,"Rashes, uncomfortable feeling, odour, plastic",No,No,Generation to generation use
+23,Student ,2000,Sanitary napkins,Rural,Medium,100-150 Rs,Less than 3 times,More than 6 hours,9,Both,Separated dustbins for sanitary napkins,No,Yes,Yes,9,Agree,Yes,No,,No,No,Less health issues
+23,Student ,10000,Sanitary napkins,Urban,High,150-200 Rs,3-5 times,4-6 hours,15,Disposable,General household waste,No,Yes,Yes,9,Strongly agree,Yes,Yes,"Rashes at the end of the period, pads not fitting properly and displacing after certain period of time due to movements , sometimes leakage happens even after wearing longer sized pad.",No,Yes,Cost feasible
+23,Student ,18000,Sanitary napkins,Urban,Medium,Less than 100 Rs,3-5 times,4-6 hours,15,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,10,Agree,Yes,No,,No,No,Less health issues
+23,Service ,35000,Sanitary napkins,Urban,High,150-200 Rs,3-5 times,4-6 hours,15,Both,Separated dustbins for sanitary napkins,Yes,Yes,Yes,10,Strongly agree,Yes,No,,No,No,Generation to generation use
+23,Student ,80000,Sanitary napkins,Rural,Medium,Less than 100 Rs,3-5 times,4-6 hours,9,Disposable,Burns it,Yes,Yes,Yes,10,Strongly agree,Yes,No,,No,No,Easy to dispose
+23,Student ,5000,"Sanitary napkins, Cloth",Urban,Medium,Less than 100 Rs,Less than 3 times,More than 6 hours,9,Both,General household waste,Yes,Yes,Yes,11,Strongly agree,Yes,No,,No,No,Generation to generation use
+23,Student ,100000,Sanitary napkins,Urban,Medium,150-200 Rs,Less than 3 times,4-6 hours,9,Both,General household waste,Yes,Yes,Yes,9,Strongly agree,Yes,No,,Yes,No,Easy to dispose
+23,Student ,150000,Sanitary napkins,Rural,Medium,100-150 Rs,Less than 3 times,More than 6 hours,9,Both,Separated dustbins for sanitary napkins,No,Yes,Yes,9,Strongly agree,Yes,No,,Yes,No,Generation to generation use
+24,Student ,5000,"Sanitary napkins, Organic pads",Urban,Low,Less than 100 Rs,Less than 3 times,More than 6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Maybe,10,Agree,Yes,No,,Yes,No,Less health issues
+24,Service ,5000,Sanitary napkins,Rural,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Both,Burns it,No,Yes,Yes,9,Agree,Yes,Yes,.,Yes,No,Less health issues
+24,Housewife ,20000,Organic pads,Urban,Medium,100-150 Rs,3-5 times,4-6 hours,9,Both,Other,Yes,Yes,Maybe,12,Agree,Yes,Yes,,Yes,No,Generation to generation use
+24,Service ,20000,Sanitary napkins,Urban,Medium,100-150 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,No,Yes,9,Strongly agree,Yes,No,,No,No,Easy to dispose
+24,Student ,50000,Organic pads,Rural,Medium,More than 200 Rs,Less than 3 times,4-6 hours,15,Both,General household waste,No,No,Yes,8,Strongly agree,Yes,No,,No,No,Less health issues
+24,Service ,300000,Organic pads,Urban,Medium,Less than 100 Rs,Less than 3 times,More than 6 hours,9,Disposable,Other,Yes,Yes,No,10,Disagree,Yes,No,,Yes,No,Easy to dispose
+24,Service ,300000,Sanitary napkins,Urban,Medium,150-200 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,10,Strongly agree,Yes,No,,No,No,Easy to dispose
+25,Student ,5000,"Sanitary napkins, Organic pads",Urban,Medium,100-150 Rs,3-5 times,4-6 hours,9,Both,Separated dustbins for sanitary napkins,Yes,Yes,No,12,Strongly agree,Yes,No,,No,No,Less health issues
+25,Housewife ,"10,000",Organic pads,Urban,Medium,Less than 100 Rs,Less than 3 times,1-3 hours,15,Reusable,General household waste,No,Yes,Yes,14,Agree,Yes,No,,No,No,Easy to dispose
+25,Service ,15000,Sanitary napkins,Rural,Medium,100-150 Rs,3-5 times,4-6 hours,15,Disposable,Burns it,No,Yes,Yes,12,Strongly agree,Yes,No,,Yes,No,Less health issues
+25,Service ,25000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Both,Separated dustbins for sanitary napkins,No,Yes,Maybe,12,Agree,Yes,No,,Yes,No,Cost feasible
+25,Service ,25000,Sanitary napkins,Rural,Medium,100-150 Rs,Less than 3 times,4-6 hours,15,Disposable,Burns it,No,Yes,Yes,11,Strongly agree,Yes,Yes,"Itching , iritation becoz of plastic material may be ",No,No,Less health issues
+25,Student ,50000,Sanitary napkins,Rural,Medium,100-150 Rs,Less than 3 times,More than 6 hours,15,Disposable,Burns it,No,Yes,Maybe,11,Strongly agree,Yes,No,,No,No,Less health issues
+25,Housewife ,80000,Sanitary napkins,Urban,Medium,100-150 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,10,Strongly agree,Yes,Yes,,No,No,Easy to dispose
+25,Service ,35000,Sanitary napkins,Urban,Low,100-150 Rs,3-5 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Maybe,10,Strongly agree,Yes,Yes,,Yes,No,Less health issues
+25,Housewife ,35000,Sanitary napkins,Urban,Medium,More than 200 Rs,3-5 times,1-3 hours,More than 20,Disposable,Separated dustbins for sanitary napkins,No,No,Yes,14,Agree,Yes,Yes,uncomfortable,Yes,No,Easy to dispose
+25,Student ,100000,Sanitary napkins,Urban,Medium,100-150 Rs,Less than 3 times,More than 6 hours,9,Disposable,General household waste,No,Yes,Maybe,13,Agree,Yes,No,,No,No,Generation to generation use
+25,Service ,"80,000",Sanitary napkins,Urban,Medium,100-150 Rs,Less than 3 times,More than 6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,No,Yes,11,Agree,Yes,No,,No,No,Less health issues
+26,Housewife ,5000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,General household waste,No,No,No,10,Agree,Yes,No,,No,No,Less health issues
+26,Student ,5000,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,4-6 hours,15,Disposable,General household waste,No,Yes,Yes,13,Agree,Yes,Yes,Irritation due to continue use of sanitary pads during menstrual phase.,Yes,No,Less health issues
+26,Student ,5000,Sanitary napkins,Urban,Medium,150-200 Rs,3-5 times,4-6 hours,20,Both,Separated dustbins for sanitary napkins,No,Yes,Yes,17,Strongly agree,Yes,No,,No,No,Less health issues
+26,Service ,15000,"Sanitary napkins, Cloth",Urban,Medium,100-150 Rs,3-5 times,4-6 hours,20,Both,General household waste,Yes,Yes,Maybe,14,Strongly agree,Yes,Yes,Itching and rashes in inner skin ,No,No,Generation to generation use
+26,Service ,40000,Sanitary napkins,Urban,Medium,100-150 Rs,Less than 3 times,More than 6 hours,9,Disposable,Separated dustbins for sanitary napkins,Yes,No,No,15,Agree,Yes,Yes,,Yes,No,Easy to dispose
+26,Service ,40000,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,4-6 hours,20,Disposable,General household waste,No,Yes,Yes,14,Agree,Yes,No,,Yes,No,Easy to dispose
+26,Housewife ,"30,000","Sanitary napkins, Organic pads",Urban,High,More than 200 Rs,More than 5 times,1-3 hours,More than 20,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,13,Strongly agree,Yes,No,,Yes,No,Easy to dispose
+26,Service ,100000,Sanitary napkins,Rural,Medium,100-150 Rs,Less than 3 times,1-3 hours,9,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,10,Strongly agree,Yes,No,,No,No,Cost feasible
+27,Housewife ,5000,Sanitary napkins,Urban,Medium,100-150 Rs,Less than 3 times,More than 6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Maybe,14,Neutral,Yes,No,,No,No,Easy to dispose
+27,Housewife ,5000,Sanitary napkins,Urban,High,100-150 Rs,3-5 times,1-3 hours,15,Disposable,General household waste,No,Yes,Yes,9,Strongly agree,Yes,No,,No,No,Generation to generation use
+27,Service ,5000,Sanitary napkins,Urban,Medium,More than 200 Rs,Less than 3 times,4-6 hours,15,Disposable,General household waste,No,No,Yes,10,Agree,Yes,Yes,,No,No,Less health issues
+27,Service ,12000,Organic pads,Urban,Medium,100-150 Rs,Less than 3 times,More than 6 hours,15,Disposable,Burns it,No,Yes,Maybe,10,Agree,Yes,Yes,Not comfortable sometimes ,Yes,No,Easy to dispose
+27,Service ,"50,000",Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,15,Strongly agree,Yes,Yes,Itching and rashes ,Yes,No,Cost feasible
+27,Service ,80000,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,1-3 hours,15,Disposable,General household waste,No,Yes,Maybe,15,Strongly agree,Yes,No,,No,No,Generation to generation use
+28,Service ,20000,Sanitary napkins,Rural,High,150-200 Rs,3-5 times,4-6 hours,20,Disposable,General household waste,No,Yes,Yes,15,Agree,Yes,No,,No,No,Less health issues
+28,Service ,400000,Sanitary napkins,Urban,High,150-200 Rs,3-5 times,4-6 hours,More than 20,Disposable,General household waste,No,Yes,Yes,10,Strongly agree,Yes,Yes,Discomfort ,No,No,Generation to generation use
+28,Housewife ,20000,Menstrual cups,Urban,High,Less than 100 Rs,Less than 3 times,4-6 hours,15,Reusable,Burns it,No,No,Yes,16,Agree,Yes,No,,No,Yes,Less health issues
+28,Service ,"50,000","Sanitary napkins, Menstrual cups",Rural,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Both,Burns it,Yes,Yes,Yes,15,Strongly agree,Yes,Yes,Itching at vaginal area because of pads,No,No,Cost feasible
+28,Student ,25000,Sanitary napkins,Urban,Medium,150-200 Rs,Less than 3 times,1-3 hours,9,Disposable,General household waste,Yes,Yes,Yes,16,Strongly agree,Yes,No,,Yes,No,Easy to dispose
+29,Service ,10000,Sanitary napkins,Rural,Medium,100-150 Rs,3-5 times,More than 6 hours,15,Disposable,Separated dustbins for sanitary napkins,No,No,Maybe,11,Agree,Yes,Yes,,No,No,Easy to dispose
+29,Service ,25000,Sanitary napkins,Urban,Medium,Less than 100 Rs,3-5 times,4-6 hours,20,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,15,Strongly agree,Yes,No,,No,No,Easy to dispose
+29,Service ,25000,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,4-6 hours,15,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,10,Agree,Yes,Yes,"Itching,redness ",Yes,No,Less health issues
+29,Service ,45000,Sanitary napkins,Urban,Medium,More than 200 Rs,Less than 3 times,4-6 hours,20,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,15,Strongly agree,Yes,Yes,,No,No,Less health issues
+29,Housewife ,50000,Sanitary napkins,Urban,Medium,Less than 100 Rs,3-5 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,No,No,14,Strongly agree,Yes,No,,No,No,Less health issues
+29,Service ,50000,Organic pads,Urban,Medium,100-150 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,13,Strongly agree,Yes,Yes,,No,No,Less health issues
+29,Service ,100000,Cloth,Rural,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,15,Both,Separated dustbins for sanitary napkins,Yes,Yes,No,15,Agree,Yes,No,,Yes,No,Less health issues
+29,Housewife ,200000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,General household waste,No,Yes,Yes,5,Strongly agree,Yes,No,,No,No,Less health issues
+29,Housewife ,50000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,General household waste,No,No,Yes,17,Strongly agree,Yes,No,,No,No,Easy to dispose
+30,Housewife ,5000,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Maybe,15,Agree,Yes,Yes,Itching,Yes,No,Easy to dispose
+30,Student ,20000,Sanitary napkins,Urban,Medium,Less than 100 Rs,3-5 times,1-3 hours,9,Disposable,General household waste,No,Yes,Yes,7,Strongly agree,Yes,No,,Yes,No,Less health issues
+30,Service ,30000,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,4-6 hours,15,Disposable,Separated dustbins for sanitary napkins,Yes,No,Yes,15,Agree,Yes,No,,No,No,Cost feasible
+30,Service ,50000,Organic pads,Rural,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,Burns it,No,No,Yes,10,Strongly agree,Yes,No,,No,No,Less health issues
+30,Housewife ,2000,Sanitary napkins,Rural,Medium,Less than 100 Rs,3-5 times,4-6 hours,9,Both,Burns it,No,No,Yes,17,Agree,Yes,No,,No,No,Cost feasible
+30,Housewife ,"30,000",Sanitary napkins,Rural,Medium,Less than 100 Rs,Less than 3 times,More than 6 hours,9,Disposable,General household waste,No,No,Yes,17,Strongly agree,Yes,Yes,"Rashes ,red ness of personal part.irritation.",No,No,Cost feasible
+30,Housewife ,100000,Organic pads,Urban,High,100-150 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Maybe,15,Agree,Yes,No,,No,No,Easy to dispose
+31,Housewife ,5000,"Sanitary napkins, Organic pads",Rural,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,Burns it,No,Yes,Yes,19,Agree,Yes,No,,No,No,Easy to dispose
+31,Housewife ,10000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,1-3 hours,15,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,17,Agree,Yes,No,,No,No,Less health issues
+31,Service ,10000,Menstrual cups,Urban,Medium,Less than 100 Rs,Less than 3 times,More than 6 hours,9,Reusable,Other,Yes,Yes,Yes,18,Strongly agree,Yes,No,,No,No,Less health issues
+31,Service ,150000,Sanitary napkins,Urban,Medium,Less than 100 Rs,3-5 times,4-6 hours,15,Disposable,Separated dustbins for sanitary napkins,No,Yes,Maybe,15,Strongly agree,Yes,Yes,Uncomfortable feel if I can use Menstrual cups,Yes,No,Easy to dispose
+32,Housewife ,5000,Organic pads,Urban,High,150-200 Rs,3-5 times,4-6 hours,15,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,18,Strongly agree,Yes,No,-,No,No,Less health issues
+32,Service ,5000,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,1-3 hours,More than 20,Disposable,Separated dustbins for sanitary napkins,No,No,No,18,Agree,Yes,No,,No,No,Less health issues
+32,Housewife ,1500,Sanitary napkins,Rural,High,100-150 Rs,More than 5 times,1-3 hours,20,Disposable,Separated dustbins for sanitary napkins,No,Yes,Maybe,15,Strongly agree,Yes,No,,Yes,No,Less health issues
+33,Service ,10000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Both,Separated dustbins for sanitary napkins,No,Yes,Yes,17,Strongly agree,Yes,Yes,Rash and itching ,No,No,Less health issues
+33,Housewife ,10000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,Burns it,No,Yes,Maybe,20,Strongly agree,Yes,Yes,"Uncomfortable,fear",No,No,Easy to dispose
+33,Service ,40000,"Sanitary napkins, Organic pads",Urban,Medium,100-150 Rs,3-5 times,4-6 hours,15,Both,Separated dustbins for sanitary napkins,No,Yes,Yes,17,Strongly agree,Yes,No,,No,No,Generation to generation use
+33,Housewife ,45000,Sanitary napkins,Rural,High,Less than 100 Rs,Less than 3 times,4-6 hours,9,Reusable,Burns it,No,Yes,Maybe,10,Agree,Yes,No,,No,No,Less health issues
+34,Housewife ,5000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Both,General household waste,No,Yes,Yes,20,Agree,Yes,No,,No,No,Cost feasible
+34,Housewife ,3000,Sanitary napkins,Rural,Medium,Less than 100 Rs,3-5 times,4-6 hours,15,Disposable,Burns it,No,Yes,Maybe,20,Agree,Yes,No,,No,Yes,Cost feasible
+34,Housewife ,10000,Organic pads,Urban,Medium,Less than 100 Rs,3-5 times,4-6 hours,9,Reusable,Other,No,Yes,Maybe,15,Strongly agree,Yes,No,,No,No,Less health issues
+34,Service ,10000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,General household waste,Yes,Yes,Yes,19,Strongly agree,Yes,No,,No,No,Less health issues
+34,Service ,10000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,1-3 hours,20,Reusable,Separated dustbins for sanitary napkins,No,Yes,Yes,20,Agree,Yes,No,,Yes,No,Cost feasible
+34,Housewife ,30000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,General household waste,No,Yes,Yes,15,Agree,Yes,No,,No,No,All above
+34,Service ,40000,Organic pads,Urban,Medium,100-150 Rs,3-5 times,4-6 hours,15,Disposable,Burns it,Yes,Yes,Maybe,15,Agree,Yes,No,,No,No,Easy to dispose
+34,Service ,50000,Organic pads,Urban,Medium,150-200 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,No,20,Strongly agree,Yes,No,,Yes,No,Easy to dispose
+34,Housewife ,100000,Sanitary napkins,Urban,Medium,100-150 Rs,Less than 3 times,More than 6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,No,Yes,19,Strongly agree,Yes,No,,No,No,Easy to dispose
+34,Housewife ,45000,Sanitary napkins,Urban,Medium,150-200 Rs,Less than 3 times,4-6 hours,9,Both,Separated dustbins for sanitary napkins,Yes,Yes,Maybe,16,Agree,Yes,No,,No,No,Generation to generation use
+35,Housewife ,5000,Organic pads,Rural,Medium,Less than 100 Rs,3-5 times,1-3 hours,15,Disposable,General household waste,Yes,Yes,Yes,20,Agree,Yes,No,,Yes,No,Less health issues
+35,Service ,4500,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,1-3 hours,15,Both,Separated dustbins for sanitary napkins,No,Yes,Yes,20,Strongly agree,Yes,No,,Yes,No,Generation to generation use
+35,Service ,12000,Menstrual cups,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,20,Reusable,Other,No,Yes,Yes,??,Strongly agree,Yes,No,,Yes,No,Generation to generation use
+35,Service ,15000,"Sanitary napkins, Organic pads",Urban,Low,100-150 Rs,Less than 3 times,1-3 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,25,Agree,Yes,No,,Yes,No,Easy to dispose
+35,Service ,90000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,15,Disposable,General household waste,No,Yes,Maybe,20,Neutral,Yes,Yes,,Yes,No,Less health issues
+35,Housewife ,"30,000",Sanitary napkins,Rural,Low,Less than 100 Rs,Less than 3 times,4-6 hours,9,Both,General household waste,Yes,Yes,No,15,Agree,Yes,No,,No,No,Generation to generation use
+35,Housewife ,"30,000",Organic pads,Rural,Medium,100-150 Rs,Less than 3 times,1-3 hours,9,Disposable,Burns it,No,Yes,Yes,20,Strongly agree,Yes,No,,No,No,Easy to dispose
+36,Housewife ,5000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Both,Separated dustbins for sanitary napkins,Yes,Yes,Yes,22,Agree,Yes,No,,No,No,Easy to dispose
+36,Service ,15000,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,4-6 hours,15,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Maybe,22,Agree,Yes,Yes,,No,No,Easy to dispose
+36,Service ,30000,Sanitary napkins,Rural,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Both,Separated dustbins for sanitary napkins,No,Yes,Maybe,20,Agree,Yes,No,,No,No,Less health issues
+36,Service ,60000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,No,Yes,20,Strongly agree,Yes,No,,Yes,No,Less health issues
+36,Housewife ,"30,000",Sanitary napkins,Urban,Medium,Less than 100 Rs,3-5 times,4-6 hours,15,Disposable,General household waste,No,No,Maybe,20,Agree,Yes,No,,No,No,Less health issues
+36,Housewife ,2000,Sanitary napkins,Urban,Medium,150-200 Rs,3-5 times,4-6 hours,9,Disposable,General household waste,No,Yes,Yes,22,Agree,Yes,No,,Yes,No,Less health issues
+37,Housewife ,5000,Sanitary napkins,Urban,High,150-200 Rs,More than 5 times,4-6 hours,More than 20,Both,Separated dustbins for sanitary napkins,No,No,Yes,18,Strongly agree,Yes,Yes,"Smell, irritation, less soaking capacity",No,No,Less health issues
+37,Housewife ,5000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,20,Agree,Yes,No,,No,No,Easy to dispose
+38,Housewife ,5000,Sanitary napkins,Rural,High,Less than 100 Rs,Less than 3 times,1-3 hours,20,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,25,Strongly agree,Yes,No,,Yes,No,Easy to dispose
+38,Service ,40000,Organic pads,Urban,Medium,150-200 Rs,Less than 3 times,1-3 hours,9,Both,Separated dustbins for sanitary napkins,No,Yes,Maybe,16,Strongly agree,Yes,Yes,,No,Yes,Less health issues
+38,Service ,40000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Maybe,24,Agree,Yes,No,.,No,No,Easy to dispose
+38,Housewife ,60000,Organic pads,Rural,Medium,100-150 Rs,Less than 3 times,More than 6 hours,9,Disposable,Other,No,Yes,Yes,20,Strongly agree,Yes,Yes,Pads,No,No,Less health issues
+38,Service ,50000,Sanitary napkins,Urban,Medium,150-200 Rs,3-5 times,1-3 hours,15,Disposable,Separated dustbins for sanitary napkins,No,No,Yes,20,Agree,Yes,Yes,,No,Yes,Less health issues
+38,Service ,60000,Sanitary napkins,Rural,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,15,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,23,Strongly agree,Yes,No,,No,No,Easy to dispose
+38,Service ,62000,Sanitary napkins,Rural,Medium,100-150 Rs,Less than 3 times,More than 6 hours,9,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,27,Strongly agree,Yes,No,,Yes,No,Less health issues
+38,Service ,80000,Sanitary napkins,Urban,Medium,More than 200 Rs,Less than 3 times,4-6 hours,15,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,22,Strongly agree,Yes,No,,Yes,No,Easy to dispose
+38,Service ,100000,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,4-6 hours,15,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,20,Strongly agree,Yes,No,,Yes,No,Less health issues
+38,Service ,100000,Sanitary napkins,Rural,Medium,Less than 100 Rs,Less than 3 times,1-3 hours,15,Disposable,Separated dustbins for sanitary napkins,No,Yes,Maybe,25,Agree,Yes,Yes,Irritation ,No,No,Easy to dispose
+38,Service ,150000,Sanitary napkins,Urban,Medium,100-150 Rs,Less than 3 times,More than 6 hours,9,Disposable,General household waste,Yes,Yes,Yes,20yrs,Strongly agree,Yes,No,,Yes,No,Generation to generation use
+38,Service ,"80,000",Organic pads,Urban,Low,Less than 100 Rs,Less than 3 times,4-6 hours,9,Both,Separated dustbins for sanitary napkins,Yes,Yes,Yes,22,Strongly agree,Yes,Yes,"Itching, leakage etc.",Yes,No,Less health issues
+39,Housewife ,3500,Organic pads,Rural,Medium,100-150 Rs,3-5 times,4-6 hours,20,Disposable,Other,No,Yes,Maybe,23,Agree,Yes,No,,No,No,Less health issues
+39,Service ,8000,Sanitary napkins,Rural,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,No,Yes,20,Agree,Yes,No,,Yes,No,Less health issues
+39,Service ,10000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,Yes,No,Yes,20,Agree,Yes,No,,No,No,Easy to dispose
+39,Housewife ,10000,Sanitary napkins,Rural,Low,Less than 100 Rs,Less than 3 times,More than 6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,No,Maybe,21,Strongly agree,Yes,No,,No,No,Cost feasible
+39,Service ,40000,Sanitary napkins,Rural,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Reusable,Burns it,Yes,Yes,Maybe,25,Strongly agree,Yes,No,,No,No,Less health issues
+39,Service ,60000,Sanitary napkins,Rural,Medium,100-150 Rs,3-5 times,More than 6 hours,9,Both,Separated dustbins for sanitary napkins,No,Yes,Yes,19,Strongly agree,Yes,No,,No,No,Easy to dispose
+39,Service ,100000,Sanitary napkins,Urban,Medium,Less than 100 Rs,3-5 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Maybe,20,Agree,Yes,No,,No,No,Easy to dispose
+39,Service ,120000,Sanitary napkins,Urban,Medium,100-150 Rs,Less than 3 times,More than 6 hours,15,Both,Separated dustbins for sanitary napkins,No,Yes,Maybe,28,Strongly agree,Yes,No,,Yes,No,Convenience 
+39,Service ,80000,Sanitary napkins,Rural,Medium,Less than 100 Rs,Less than 3 times,More than 6 hours,9,Both,Separated dustbins for sanitary napkins,No,No,Maybe,15,Agree,Yes,No,,No,No,Less health issues
+40,Housewife ,5000,Sanitary napkins,Rural,Medium,Less than 100 Rs,More than 5 times,1-3 hours,9,Disposable,Separated dustbins for sanitary napkins,No,No,Yes,24,Agree,Yes,No,,No,No,Easy to dispose
+40,Housewife ,1500,Sanitary napkins,Urban,Medium,More than 200 Rs,3-5 times,1-3 hours,More than 20,Disposable,General household waste,No,Yes,Yes,25,Agree,Yes,No,,No,No,Less health issues
+40,Housewife ,5000,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Maybe,20,Agree,Yes,Yes,Irritation of skin ,No,No,Easy to dispose
+40,Housewife ,30000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Maybe,25,Strongly agree,Yes,Yes,Infection ,No,No,Easy to dispose
+40,Service ,50000,Sanitary napkins,Urban,Medium,150-200 Rs,3-5 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,20,Strongly agree,Yes,No,,Yes,No,Easy to dispose
+40,Student ,4500,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,More than 6 hours,15,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,25,Agree,Yes,Yes,,No,No,Cost feasible
+41,Housewife ,50000,Sanitary napkins,Rural,Medium,100-150 Rs,3-5 times,1-3 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,No,28,Agree,Yes,No,,Yes,No,Generation to generation use
+42,Service ,10000,Menstrual cups,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,No,Yes,16,Strongly agree,Yes,No,,No,No,Easy to dispose
+42,Service ,40000,Sanitary napkins,Rural,Medium,100-150 Rs,Less than 3 times,4-6 hours,15,Disposable,Burns it,Yes,Yes,Yes,26,Agree,Yes,No,,No,No,Less health issues
+42,Housewife ,50000,Sanitary napkins,Rural,Medium,Less than 100 Rs,Less than 3 times,More than 6 hours,15,Disposable,General household waste,No,No,Yes,30,Agree,Yes,No,,No,No,Less health issues
+42,Service ,100000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,More than 6 hours,9,Both,General household waste,No,Yes,Yes,25,Strongly agree,Yes,No,,Yes,No,Less health issues
+42,Service ,200000,Sanitary napkins,Rural,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Both,Separated dustbins for sanitary napkins,Yes,Yes,Yes,22,Strongly agree,Yes,No,,Yes,No,Less health issues
+43,Housewife ,"30,000",Sanitary napkins,Urban,Medium,Less than 100 Rs,More than 5 times,4-6 hours,15,Reusable,General household waste,No,No,Maybe,30,Agree,Yes,No,,No,No,Less health issues
+43,Service ,56000,Sanitary napkins,Rural,Medium,150-200 Rs,Less than 3 times,4-6 hours,9,Disposable,General household waste,No,Yes,Yes,29,Strongly agree,Yes,Yes,Eichhing when use more than 6 hour,Yes,No,Less health issues
+43,Service ,80000,Sanitary napkins,Urban,Medium,100-150 Rs,More than 5 times,More than 6 hours,15,Disposable,General household waste,Yes,Yes,Yes,30,Agree,Yes,No,,No,No,Less health issues
+43,Service ,80000,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,4-6 hours,15,Disposable,General household waste,No,Yes,Yes,20,Strongly agree,Yes,No,,No,No,Generation to generation use
+43,Housewife ,"30,000",Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Reusable,General household waste,No,Yes,Maybe,23,Strongly agree,Yes,Yes,,No,No,Easy to dispose
+43,Service ,5000,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,4-6 hours,15,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,No,20,Agree,Yes,No,,No,No,Easy to dispose
+44,Service ,30000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Both,General household waste,No,No,Yes,10,Agree,Yes,No,,No,No,Less health issues
+44,Service ,80000,Sanitary napkins,Urban,Medium,100-150 Rs,Less than 3 times,4-6 hours,9,Reusable,General household waste,Yes,Yes,Maybe,34,Strongly agree,Yes,No,,Yes,No,Less health issues
+44,Housewife ,"50,000","Sanitary napkins, Organic pads",Urban,Medium,More than 200 Rs,3-5 times,4-6 hours,15,Disposable,Separated dustbins for sanitary napkins,No,No,Yes,25,Strongly agree,Yes,No,,No,No,Less health issues
+45,Housewife ,5000,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,4-6 hours,15,Disposable,Separated dustbins for sanitary napkins,No,Yes,No,25,Strongly agree,Yes,No,,Yes,No,Easy to dispose
+45,Service ,75000,"Sanitary napkins, Organic pads",Urban,Medium,Less than 100 Rs,3-5 times,More than 6 hours,9,Disposable,General household waste,Yes,Yes,No,30,Strongly agree,Yes,No,,No,No,Generation to generation use
+45,Service ,20000,Cloth,Urban,High,100-150 Rs,3-5 times,4-6 hours,9,Reusable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,38,Strongly agree,Yes,No,,Yes,No,Generation to generation use
+46,Service ,1500,Sanitary napkins,Rural,Medium,Less than 100 Rs,Less than 3 times,1-3 hours,9,Disposable,Separated dustbins for sanitary napkins,No,No,Yes,19,Strongly agree,Yes,No,-,No,No,Easy to dispose
+46,Service ,25000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,More than 6 hours,9,Disposable,Separated dustbins for sanitary napkins,Yes,No,No,30,Strongly agree,Yes,Yes,Uncomfertable itching ,No,No,Easy to dispose
+46,Service ,40000,Sanitary napkins,Urban,Medium,100-150 Rs,3-5 times,1-3 hours,15,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,25,Strongly agree,Yes,No,,No,No,Generation to generation use
+46,Service ,50000,Sanitary napkins,Urban,Medium,100-150 Rs,Less than 3 times,1-3 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,26,Strongly agree,Yes,No,,No,No,Easy to dispose
+46,Service ,60000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,1-3 hours,15,Disposable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,25,Strongly agree,Yes,No,,Yes,No,Easy to dispose
+46,Service ,70000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,1-3 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,15,Agree,Yes,No,,Yes,No,Easy to dispose
+46,Housewife ,"75,000",Sanitary napkins,Rural,High,100-150 Rs,3-5 times,1-3 hours,20,Disposable,General household waste,Yes,Yes,No,32,Neutral,Yes,Yes,Leakage,Yes,No,Easy to dispose
+46,Service ,80000,Sanitary napkins,Rural,Medium,Less than 100 Rs,3-5 times,4-6 hours,15,Reusable,Separated dustbins for sanitary napkins,No,Yes,Yes,33,Agree,Yes,No,,No,Yes,Easy to dispose
+47,Service ,10000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Both,Separated dustbins for sanitary napkins,No,Yes,Yes,25,Agree,Yes,No,,Yes,No,Easy to dispose
+47,Service ,"1,00,000",Sanitary napkins,Urban,Medium,Less than 100 Rs,3-5 times,4-6 hours,9,Disposable,Separated dustbins for sanitary napkins,No,No,Yes,35,Strongly agree,Yes,No,,No,No,Easy to dispose
+48,Service ,70000,Sanitary napkins,Urban,Low,Less than 100 Rs,Less than 3 times,1-3 hours,15,Disposable,Separated dustbins for sanitary napkins,No,Yes,Yes,30,Strongly agree,Yes,No,,No,No,Easy to dispose
+48,Service ,"90,000",Organic pads,Urban,Medium,100-150 Rs,3-5 times,4-6 hours,More than 20,Reusable,Burns it,Yes,Yes,Yes,20,Strongly agree,Yes,No,,Yes,No,Less health issues
+49,Housewife ,5000,Sanitary napkins,Urban,Medium,100-150 Rs,Less than 3 times,1-3 hours,9,Disposable,Separated dustbins for sanitary napkins,No,Yes,Maybe,30,Agree,Yes,No,,Yes,No,Easy to dispose
+54,Housewife ,3500,Cloth,Rural,Medium,Less than 100 Rs,3-5 times,4-6 hours,9,Reusable,Burns it,No,No,Yes,30,Agree,Yes,No,,No,No,Less health issues
+56,Service ,150000,Sanitary napkins,Urban,Medium,Less than 100 Rs,Less than 3 times,4-6 hours,9,Reusable,Separated dustbins for sanitary napkins,Yes,Yes,Yes,30,Strongly agree,Yes,No,,Yes,No,Easy to dispose

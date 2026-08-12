@@ -1,0 +1,24 @@
+services:
+  # ── FastAPI Backend ──────────────────────────────────────────────────────
+  - type: web
+    name: eco-switch-backend
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn backend.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: MODEL_PATH
+        value: eco_switch_intent_pipeline.joblib
+      - key: ALLOWED_ORIGINS
+        value: "*"   # Replace with your Streamlit frontend URL after first deploy
+    rootDir: .
+
+  # ── Streamlit Frontend ───────────────────────────────────────────────────
+  - type: web
+    name: eco-switch-frontend
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run frontend/app.py --server.port $PORT --server.address 0.0.0.0
+    envVars:
+      - key: BACKEND_URL
+        value: https://eco-switch-backend.onrender.com  # Update after backend deploys
+    rootDir: .
