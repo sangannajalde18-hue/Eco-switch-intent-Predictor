@@ -40,7 +40,7 @@ logger = logging.getLogger(__name__)
 async def lifespan(app: FastAPI):
     model_path = os.getenv(
         "MODEL_PATH",
-        str(Path(__file__).resolve().parent.parent / "eco_switch_intent_pipeline.joblib"),
+        str(Path(__file__).resolve().parent.parent / "eco_menstrual_model_pipeline.pkl"),
     )
     logger.info("Loading pipeline from: %s", model_path)
     try:

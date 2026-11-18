@@ -7,10 +7,9 @@ services:
     startCommand: uvicorn backend.main:app --host 0.0.0.0 --port $PORT
     envVars:
       - key: MODEL_PATH
-        value: eco_switch_intent_pipeline.joblib
+        value: eco_menstrual_model_pipeline.pkl
       - key: ALLOWED_ORIGINS
-        value: "*"   # Replace with your Streamlit frontend URL after first deploy
-    rootDir: .
+        value: "https://eco-switch-frontend.onrender.com"
 
   # ── Streamlit Frontend ───────────────────────────────────────────────────
   - type: web
@@ -20,5 +19,4 @@ services:
     startCommand: streamlit run frontend/app.py --server.port $PORT --server.address 0.0.0.0
     envVars:
       - key: BACKEND_URL
-        value: https://eco-switch-backend.onrender.com  # Update after backend deploys
-    rootDir: .
+        value: "https://eco-switch-backend.onrender.com"

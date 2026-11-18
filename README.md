@@ -1,69 +1,116 @@
 # 🌿 Eco-Switch Intent Predictor
 
-Predicts whether a menstrual product user is likely to switch to an eco-friendly alternative,
-based on a real-world survey of 333 respondents. Built with **FastAPI** + **Streamlit**.
+An end-to-end machine learning web application that predicts whether a menstrual product
+user is likely to switch to an eco-friendly alternative — built on real-world survey data
+from **333 respondents**, with a FastAPI backend, modern Streamlit frontend, and SHAP explanations.
 
 ---
 
-## Project Structure
+## 🖼️ Application Pages
+
+| Page | Description |
+|------|-------------|
+| **🌿 Predict** | Fill in a 22-field survey form and get a live prediction with probability gauge and SHAP feature chart |
+| **📊 Model Insights** | ROC-AUC curve, Confusion Matrix, and Feature Importance for the trained Decision Tree model |
+| **ℹ️ About** | Dataset context, model comparison table, tech stack, and feature group breakdown |
+
+---
+
+## 📊 Dataset & Model
+
+- **333** real-world survey respondents
+- **24** survey questions: demographics, product usage, disposal habits, environmental attitudes
+- **Target:** `Yes` → 1 (intends to switch), `Maybe` / `No` → 0
+- **Class distribution:** ~68% positive (intend to switch)
+- **Models trained:** Logistic Regression, Random Forest, Decision Tree
+- **Deployed model:** Decision Tree (max_depth=4, class_weight='balanced')
+- **Honest AUC note:** 0.58–0.75 is realistic for a 333-row survey dataset
+
+---
+
+## 🗂️ Project Structure
 
 ```
 .
 ├── backend/
 │   ├── __init__.py
-│   ├── main.py        # FastAPI app (routes, CORS, lifespan)
-│   ├── schemas.py     # Pydantic v2 request/response models
-│   └── services.py    # Prediction logic + SHAP
+│   ├── main.py        # FastAPI app — routes, CORS, lifespan loader
+│   ├── schemas.py     # Pydantic v2 request/response models (22 fields)
+│   └── services.py    # Prediction logic, DataFrame builder, SHAP explainer
 ├── frontend/
 │   ├── __init__.py
-│   ├── app.py         # Streamlit UI
-│   ├── utils.py       # API call helpers
+│   ├── app.py         # Streamlit multi-page UI
+│   ├── utils.py       # API call helpers (get_health, post_predict)
 │   └── .streamlit/
 │       └── secrets.toml
-├── eco_switch_intent_pipeline.joblib  ← pre-trained model
+├── eco_switch_intent_pipeline.joblib  ← pre-trained sklearn pipeline
+├── menstrual.csv                      ← survey dataset (used for Model Insights page)
 ├── requirements.txt
-├── render.yaml
+├── render.yaml                        ← Render Blueprint for deployment
+├── .python-version                    ← pins Python 3.12 on Render
+├── .gitignore
 └── README.md
 ```
 
 ---
 
-## Local Setup
+## ⚡ Local Setup
 
-### 1. Install dependencies
+### 1. Create a Python 3.12 virtual environment
 ```bash
+py -3.12 -m venv venv
+venv\Scripts\activate          # Windows
+# source venv/bin/activate     # macOS / Linux
+```
+
+### 2. Install dependencies
+```bash
+pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-### 2. Run the FastAPI backend
-Open a terminal in the project root and run:
+### 3. Start the FastAPI backend (Terminal 1)
 ```bash
 uvicorn backend.main:app --reload --port 8000
 ```
-- API docs: http://localhost:8000/docs
-- Health check: http://localhost:8000/health
+- Health check: http://localhost:8000/health → `{"status":"ok","model_loaded":true}`
+- Swagger docs: http://localhost:8000/docs
 
-### 3. Run the Streamlit frontend
-Open a **second terminal** in the project root and run:
+### 4. Start the Streamlit frontend (Terminal 2)
 ```bash
 streamlit run frontend/app.py
 ```
 - App: http://localhost:8501
 
----
-
-## Deployment on Render
-
-1. Push this repo to GitHub (keep `eco_switch_intent_pipeline.joblib` in the repo).
-2. Go to [render.com](https://render.com) → New → Blueprint → connect your repo.
-3. Render will read `render.yaml` and create both services automatically.
-4. After the backend deploys, copy its URL and update `BACKEND_URL` in the frontend service's environment variables on Render.
+> Both terminals must stay open simultaneously.
 
 ---
 
-## Model Notes
+## 🚀 Deploy to Render
 
-- **Dataset**: 333 respondents, 24 survey features
-- **Target**: Binary — intends to switch (1) vs. Maybe/No (0)
-- **CV ROC-AUC**: 0.58–0.65 (expected for a small survey dataset)
-- **Explainability**: SHAP values shown per prediction
+### Backend service
+| Field | Value |
+|---|---|
+| Build Command | `pip install -r requirements.txt` |
+| Start Command | `uvicorn backend.main:app --host 0.0.0.0 --port $PORT` |
+| Env: `MODEL_PATH` | `eco_switch_intent_pipeline.joblib` |
+| Env: `ALLOWED_ORIGINS` | `https://your-frontend.onrender.com` |
+
+### Frontend service
+| Field | Value |
+|---|---|
+| Build Command | `pip install -r requirements.txt` |
+| Start Command | `streamlit run frontend/app.py --server.port $PORT --server.address 0.0.0.0` |
+| Env: `BACKEND_URL` | `https://your-backend.onrender.com` |
+
+> Free tier services sleep after 15 min of inactivity — first request takes ~30s to wake up.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Backend:** FastAPI · Uvicorn · Pydantic v2 · joblib
+- **Frontend:** Streamlit · Matplotlib · custom CSS eco theme
+- **ML:** scikit-learn Pipeline + ColumnTransformer · XGBoost
+- **Explainability:** SHAP (TreeExplainer / LinearExplainer)
+- **Deployment:** Render
